@@ -1,0 +1,32 @@
+# Archivos generados por NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Archivos de log y temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+
+# Otros
+*.swp
+*~
+
